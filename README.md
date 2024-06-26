@@ -31,10 +31,10 @@ Hello! It's Hesam Hoseini, a Backend developer specializing in PHP/Laravel and C
 ## Projects
 In this section you can see some of my projects:
 
-- [HamsterKombatCoinMiner] (https://github.com/itsHesamHoseini/HamsterKombatCoinMiner)
+- [HamsterKombatCoinMiner](https://github.com/itsHesamHoseini/HamsterKombatCoinMiner)
   - Click and get coins in Hamster kombat game
 
-- [HTMLBuilder] (https://github.com/itsHesamHoseini/HTMLBuilder)
+- [HTMLBuilder](https://github.com/itsHesamHoseini/HTMLBuilder)
   - HTMLBuilder is a library in PHP
 
 
