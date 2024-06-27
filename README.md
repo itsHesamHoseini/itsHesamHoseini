@@ -1,9 +1,8 @@
 # Hesam Hoseini
 
 ## About Me
-Hello! It's Hesam Hoseini, 
-a Backend developer
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Henrique+%F0%9F%91%8B;A+Backend+Developer.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'ts+Hesam+Hoseini;A+Backend+Developer.)](https://git.io/typing-svg)
 specializing in PHP/Laravel and C#.NET Winforms. I am also interested in GNU/Linux and open source software, and I work in the field of Linux admin and DevOps.
 
 ## Skills
