@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'ts+Hesam+Hoseini;A+Backend+Developer.)](https://git.io/typing-svg)
 
 
-specializing in PHP/Laravel and C#.NET Winforms. I am also interested in GNU/Linux and open source software, and I work in the field of Linux admin and DevOps.
+specializing in PHP/Laravel and C#.NET Winforms & WPF. I am also interested in GNU/Linux and open source software, and I work in the field of Linux admin and DevOps.
 
 ## Skills
 
@@ -15,7 +15,7 @@ specializing in PHP/Laravel and C#.NET Winforms. I am also interested in GNU/Lin
   - Design and implementation of RESTful APIs
   - Using MVC architecture and modern designs
 
-- **C#.NET Winforms**
+- **C#.NET Winforms & WPF**
   - Development of Windows desktop applications
   - Designing user-friendly user interfaces
   - Data management and connection to databases
