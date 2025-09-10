@@ -1,46 +1,27 @@
-# Hesam Hoseini
+# 👋 Hi, I'm Hesam Hosseini
 
-## About Me
+🎓 Bachelor's student in Computer Engineering at Shahrood University of Technology  
+🚀 Junior DevOps Engineer | Former PHP/Laravel Backend Developer  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'ts+Hesam+Hoseini;A+Backend+Developer.)](https://git.io/typing-svg)
+---
 
+## 🛠️ Skills & Tools
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-specializing in PHP/Laravel and C#.NET Winforms & WPF. I am also interested in GNU/Linux and open source software, and I work in the field of Linux admin and DevOps.
+---
 
-## Skills
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsHesamHoseini&show_icons=true&theme=radical)
 
-#### Programming
-- **PHP/Laravel**
-  - Development and maintenance of websites and applications
-  - Design and implementation of RESTful APIs
-  - Using MVC architecture and modern designs
+---
 
-- **C#.NET Winforms & WPF**
-  - Development of Windows desktop applications
-  - Designing user-friendly user interfaces
-  - Data management and connection to databases
-
-## Favorites
-#### Linux and Devops
-- **Linux admin**
-  - Installation and configuration of Linux operating systems
-  - Management of Linux servers and networks
-  - Scripting with Bash and Python
-
-  - **Devops**
-  - Implementation of CI/CD using various tools such as Jenkins and GitLab CI
-  - Managing containers with Docker and Kubernetes
-  - Monitoring and logging using tools like Prometheus and ELK stack
-
-## Projects
-In this section you can see some of my projects:
-
-- [HamsterKombatCoinMiner](https://github.com/itsHesamHoseini/HamsterKombatCoinMiner)
-  - Click and get coins in Hamster kombat game
-
-- [HTMLBuilder](https://github.com/itsHesamHoseini/HTMLBuilder)
-  - HTMLBuilder is a library in PHP
-
-
-## Contact
-- Email: [admin@itshesamhoseini.ir](mailto:admin@itshesamhoseini.ir)
+## 🔗 Connect with me
+- [Telegram](https://t.me/its_hesamhoseini)  
+- [Email](mailto:itshesamhoseini@gmail.com)
