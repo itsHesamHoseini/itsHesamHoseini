@@ -18,10 +18,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsHesamHoseini&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsHesamHoseini&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsHesamHoseini&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Connect with me
 - [Telegram](https://t.me/its_hesamhoseini)  
 - [Email](mailto:itshesamhoseini@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=itsHesamHoseini&color=blue&style=flat)
