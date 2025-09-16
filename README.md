@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hesam Hosseini
+# 👋 Hi, I'm Hesam Hoseini
 
 🎓 Bachelor's student in Computer Engineering at Shahrood University of Technology  
 🚀 Junior DevOps Engineer | Former PHP/Laravel Backend Developer  
